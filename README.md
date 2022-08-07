@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Lahiru Kavinda
-#### 🙋‍ Learner,  Web Developer and Designer
+## 🙋‍ Learner,  Web Developer and Designer
  ![Learner,  Web Developer and Designer](https://thumbs.dreamstime.com/b/programmer-computer-technology-business-innovation-image-coding-cogs-circuits-brain-hand-117182110.jpg)
 
 I'm Lahiru Kavinda from Sri Lanka, and I'm an undergraduate. I really enjoy learning languages like Javascript and Frameworks like React, as well as I,m trying to do some personal projects by self-learning.  
@@ -12,8 +12,8 @@ Skills:  REACT /Express/ Java/ JS / HTML / CSS
 - 💬 Ask me about React, JavaScript 
 - 📫 How to reach me **lahirukavinda365@gmail.com**
 
-#### Connect with me
-
+## Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lahirukavinda365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lahiru-karunarathna-a52195222//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Lahiru Kavinda)  
  
 ## 🚀 Languages and Tools
 <p align="left>
