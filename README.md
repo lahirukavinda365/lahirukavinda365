@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Lahiru Kavinda
-## 🙋‍ Learner,  Web Developer and Designer
+## 🙋‍ Self Learner,  Web Developer and Designer
  ![Learner,  Web Developer and Designer](https://thumbs.dreamstime.com/b/programmer-computer-technology-business-innovation-image-coding-cogs-circuits-brain-hand-117182110.jpg)
 
 I'm Lahiru Kavinda from Sri Lanka, and I'm an undergraduate. I really enjoy learning languages like Javascript and Frameworks like React, as well as I,m trying to do some personal projects by self-learning.  
