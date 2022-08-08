@@ -8,7 +8,7 @@ Skills:  REACT /Express/ Java/ JS / HTML / CSS
 
 - 🔭 I’m currently working on Memories Self learning Project 
 - 🌱 I’m currently learning MERN stack 
-- 👯 I’m looking to collaborate on I’m looking to collaborate on OpenSource Projects. 
+- 👯 I’m looking to  collaborate on OpenSource Projects. 
 - 💬 Ask me about React, JavaScript 
 - 📫 How to reach me **lahirukavinda365@gmail.com**
 
